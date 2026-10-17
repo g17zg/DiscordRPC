@@ -1,6 +1,6 @@
 # Discord Rich Presence with music from your browser!
 
-#IMPORTANT
+# IMPORTANT
 For this to properly work you need webnowplaying and webnowplaying CLI installed, theres where to download it from:
 **WNP:** github: https://github.com/keifufu/WebNowPlaying; firefox: https://addons.mozilla.org/en-US/firefox/addon/webnowplaying/; chrome: https://chromewebstore.google.com/detail/webnowplaying/jfakgfcdgpghbbefmdfjkbdlibjgnbli
 
