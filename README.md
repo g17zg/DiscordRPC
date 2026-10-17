@@ -1,7 +1,7 @@
 # Discord Rich Presence with music from your browser!
 
 <img width="1218" height="769" alt="how it looks" src="https://github.com/user-attachments/assets/e7f20450-4b25-4136-b726-69cae63f04c7" />
-
+*g17zg's music player is basicly name of my application on discord developer portal, you can set any name of application.*
 
 # IMPORTANT
 For this to properly work you need webnowplaying and webnowplaying CLI installed, theres where to download it from:
