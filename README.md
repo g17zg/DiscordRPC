@@ -32,3 +32,6 @@ It should be well optimized for python program and also there no AI used! pure s
 
 ## Which sites does it supports?
 Basicly all of the sites that webnowplaying supports. See list of sites on their extension github page.
+
+## MODIFYING
+you can modify scripts for your own need, my song_metadata.py should be pretty universal so you can rewrite it to display music somewhere else or even interact with music (e.g. turning it off/on, moving position, skipping track and etc) through daemon (run wnpcli --help in your command prompt for help on wnpcli subproccess usage)
