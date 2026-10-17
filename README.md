@@ -7,7 +7,7 @@ For this to properly work you need webnowplaying and webnowplaying CLI installed
 **WNP CLI:** github: https://github.com/keifufu/WebNowPlaying-CLI/releases/tag/3.0.0-alpha.6
 
 # SETUP
-1. install WebNowPlaying (WNP)
+1. install WebNowPlaying (WNP) AND enabled CLI in extension menu
 2. install WNP CLI **AND ADD IT TO PATH, MARK "ADD TO PATH" IN THE INSTALLER**
 3. grab .exe file from releases or clone/download daemon.bat and song_metadata.py from my repository (compiled release: https://github.com/g17zg/music-DiscordRPC/releases/tag/compiled)
 4. create an application on https://discord.com/developers/applications, select name and avatar for your application, they will be used as avatar in rich presence and name of application.
