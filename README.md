@@ -27,8 +27,8 @@ Yes! my project is completely ***open source***, you can see files in repository
 Well, its compiled to .exe file, so **for compiled release you should use windows**, but **for linux users, you can use song_metadata and daemon.bat from repository files**, its **source** files and basicly the same thing as compiled release.
 
 ## Why choose my music RPC?
-You can choose whatever you want, but i havent seen any music RPC that is getting music from your browser, so i decided to spend a few hours writing my own and also upload it to my github so yall can enjoy it too!
-It should be well optimized and also there no AI used! pure skill 😎
+You can choose whatever you want, but i havent seen any music RPC that is getting music from browser and also fits my requirements, so i decided to spend a few hours writing my own and also upload it to my github so yall can enjoy it too!
+It should be well optimized for python program and also there no AI used! pure skill 😎
 
 ## Which sites does it supports?
 Basicly all of the sites that webnowplaying supports. See list of sites on their extension github page.
